@@ -1,6 +1,6 @@
 /*
  author : Soni Dev Alpeshbhai
- e-mail : dasoni4@myseneca.ca
+ e-mail : dsoni30a@gmail.com
  */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
