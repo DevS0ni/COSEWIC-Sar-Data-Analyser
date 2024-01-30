@@ -1,6 +1,6 @@
 # COSEWIC - Sar Data Analyser
 
-## Project Description: COSEWIC SAR Data Analyser
+## Project Description:
 The COSEWIC SAR Data Analyser is a C-based application designed to analyze and present information on the status of endangered wildlife species in Canada. 
 The data used for this project is fictionalized with invalid counts, and the project is based on the COSEWIC reports for Species At Risk (SAR).
 
