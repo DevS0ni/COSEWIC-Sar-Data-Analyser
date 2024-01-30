@@ -5,7 +5,7 @@ The COSEWIC SAR Data Analyser is a C-based application designed to analyze and p
 The data used for this project is fictionalized with invalid counts, and the project is based on the COSEWIC reports for Species At Risk (SAR).
 
 ## TechStack
-~ C
+- C Programming Language
 
 ## Functionality:
 The program reads data from a CSV file named "data.csv" that contains information about species, their status, counts, province, and year.
