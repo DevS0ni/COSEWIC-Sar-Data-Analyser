@@ -1,1 +1,1 @@
-# COSEWIC-Sar-Data-Analyser
+# COSEWIC - Sar Data Analyser
