@@ -4,6 +4,9 @@
 The COSEWIC SAR Data Analyser is a C-based application designed to analyze and present information on the status of endangered wildlife species in Canada. 
 The data used for this project is fictionalized with invalid counts, and the project is based on the COSEWIC reports for Species At Risk (SAR).
 
+## TechStack
+~ C
+
 ## Functionality:
 The program reads data from a CSV file named "data.csv" that contains information about species, their status, counts, province, and year.
 The user is presented with a menu to view data in different ways, such as by year, province, taxon, or a combination of province and taxon.
